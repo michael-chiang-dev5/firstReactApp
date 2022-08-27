@@ -13,7 +13,7 @@ class App extends React.Component {
           {name === 'student' ? (
             <h1>Good job on the course so far!</h1>
           ) : (
-            <h1>Hello, {name}!</h1>
+            <h1>Hello, {name}! This is an example of a conditional</h1>
           )}
         </div>
       );
