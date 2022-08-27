@@ -8,3 +8,14 @@ Implements project described at https://www.rithmschool.com/courses/react-fundam
 
 ## Notes
 * React and Babel are normally installed via npm. Here, they are embedded in index.html using `<script src="https://unpkg.com/babel-standalone@6/babel.js"></script>`
+
+## Step-by-Step
+1. Create index.html, which should do the following
+   - load react and babel
+   - load app.css
+   - load app.jsx
+   - div containers for components
+2. Create app.jsx
+3. Create app.csx
+ 
+2. Index.html should contain the 
