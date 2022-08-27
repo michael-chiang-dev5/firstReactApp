@@ -8,4 +8,4 @@ class App extends React.Component {
     }
   }
   
-  ReactDOM.render(<App />, document.getElementById("output2"));
+  ReactDOM.render(<App />, document.getElementById("basic_jsx"));
